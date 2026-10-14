@@ -1,0 +1,8 @@
+{
+  "name": "kiwami-typing",
+  "version": "1.1.0",
+  "description": "極み打ち - ランキング付きタイピングゲーム(Vercel版)",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": { "pg": "^8.11.5" }
+}
